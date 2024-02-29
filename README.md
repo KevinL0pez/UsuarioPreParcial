@@ -4,10 +4,10 @@ docker run --name mysql-container -e MYSQL_ROOT_HOST=localhost -p 3306:3306 -e M
 ## Docker container Adminer
 docker run --name adminer-container -p 8080:8080 --link mysql-container:db -d adminer:latest
 
-# SQL ISERT USER 
+# SQL INSERT USER 
 INSERT INTO dbausers.`user`
-(id_user, address, age, lastnames, names, state, id_rol)
-VALUES(1, 'Armenia', 22, 'López', 'Jhon', 1, 1);
+(address, age, lastnames, names, state, id_rol)
+VALUES('Armenia', 22, 'López', 'Jhon', 1, 1);
 
 # SQL INSERT ROL
 INSERT INTO dbausers.rol
