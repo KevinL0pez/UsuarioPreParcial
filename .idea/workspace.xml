@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c698764-f225-4e50-9804-86b29f66e692" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/usuariopreparcial/UsuarioPreparcialApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/usuariopreparcial/jpa/entities/RolEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/usuariopreparcial/jpa/entities/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/usuariopreparcial/jpa/entities/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/usuariopreparcial/jpa/repositories/RolRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/usuariopreparcial/jpa/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/usuariopreparcial/jpa/entities/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/usuariopreparcial/jpa/entities/UserEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709248239820</updated>
       <workItem from="1709248241019" duration="323000" />
-      <workItem from="1709248618329" duration="1335000" />
+      <workItem from="1709248618329" duration="1970000" />
     </task>
     <servers />
   </component>

@@ -4,6 +4,8 @@ import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.List;
+
 @NoArgsConstructor
 @Data
 @Entity
@@ -33,7 +35,7 @@ public class UserEntity {
     @Column(name = "state")
     private boolean state;
 
-    @OneToOne
+    @ManyToOne
     @JoinColumn(name = "id_rol")
     private RolEntity rol;
 
