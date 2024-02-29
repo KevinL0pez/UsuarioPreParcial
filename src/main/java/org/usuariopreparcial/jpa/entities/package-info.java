@@ -1,0 +1,1 @@
+package org.usuariopreparcial.jpa.entities;
